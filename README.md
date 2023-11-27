@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-I'm a **passionate** software craftsman currently using `Ruby`, `Python`, `PHP`, `MongoDB` and `Angular`.
-
-I'm also a Smalltalk and Ruby lover ❤️.
+I'm a **passionate** software craftsman. **Smalltalk** and **Ruby** lover ❤️. Currently working with `Ruby`, `Python`, `PHP`, `MongoDB` and `Angular`.
 
 Java sucks 🤮 and, while you read these lines, a new 💩 React state management library is being released.
 
